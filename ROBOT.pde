@@ -2,6 +2,7 @@
 //1-4
 //Robot project
 
+// now it says hello here
 
 //sky
 size(800,600);
